@@ -1,0 +1,1 @@
+[![say-hello](https://github.com/difuz555/workflows-hello-world/actions/workflows/say-hello.yml/badge.svg)](https://github.com/difuz555/workflows-hello-world/actions/workflows/say-hello.yml)
